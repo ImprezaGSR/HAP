@@ -1,0 +1,1335 @@
+fileFormatVersion: 2
+guid: 48e3a53afad2c408f9218e7d34531be7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 160
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc631b35c4fca48a8ab67ea0f90ef564
+      internalID: 585215792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916d30ac7465499e9b93f54b7e360a4
+      internalID: 1902003238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 193
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef112b393a0b462a93929b369351b53
+      internalID: 2128881686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e791578f35954364894ec3502aebb05
+      internalID: 816025103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc60211014af429798229d9eb5ac24d
+      internalID: -1335376938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a619f08b0220f416393fcc161981a0f2
+      internalID: -1631025884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f8b5d075ea4aaab4e8671c3d89c7a
+      internalID: 84489199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974401647e3e49c6b4c87756490069b
+      internalID: 2057759361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c2f4a2664984c83b6f8495b69f2fe3
+      internalID: 243458710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a939c2ab674782a99207e58dd9609
+      internalID: -254684624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 54
+        width: 16
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37372c857399743d79b6d5df71110f8d
+      internalID: -1696961892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53435faf9544e86afb2ebd42f6002f
+      internalID: -785890826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 161
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c2357c952d14d02a53ac9b2c84eb19
+      internalID: 642356069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 161
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0750ad279c4eb2a861b29f4256baa
+      internalID: 89401282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dd8eab168164cbe9dac186106e3d92
+      internalID: -2147183695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20a375feb0843d98302bc52a39f5e4
+      internalID: -1757997391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f06961657ed4a50b1990f9c63d7ce6
+      internalID: 87875474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c6b84d6e084cdeb5139b49d0d700c
+      internalID: 104543444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c8be343efac4076912adf6532af3b7
+      internalID: 41304048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6280aad93564aba92713d0cf12b19f
+      internalID: -1648845422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eac1c3c902d4ceb938d5901ea0513e
+      internalID: 444690331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 129
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b39ca08d4f74de88a99cb858181981
+      internalID: -929025391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d7d9a01cce492eb50eecdfb8ce9e0
+      internalID: 529800148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e50adce1f32d435383790e56b8df5b8
+      internalID: 1380919664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e7675156af47bc8ef72f4e3650714
+      internalID: -1735762661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cbfa783dcb84264a07a1dd599ad10e
+      internalID: -1778728973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e13157e141b4ce392fa4768923b553
+      internalID: 1382551459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534827c39578b49f2a35a5077790a3b8
+      internalID: 2137377429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41343be72621845b399f98df57f53ed2
+      internalID: 1005984620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df838813f2fa64419873e49666b449f5
+      internalID: 146646509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef118176e6e8b4e9990a699bda69d2a7
+      internalID: 2060498832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f926a63fba2ee476c86ba9377adf5dd6
+      internalID: -297402909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c68ae31ccd4cecb837b1698c2a7ee
+      internalID: -700753754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d79ecd62d84544bfa8f94e0f6ebd098
+      internalID: -552685192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c07857125c434db2fccf26aac4d37
+      internalID: 667602908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c79327985544c83920507a93f3fa92
+      internalID: 642718602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_36
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 97
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146fc87f452d5494f9b1b27054d1e624
+      internalID: -277349033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 97
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb613cb9d804e4f5e83522fc50c9c265
+      internalID: -721484431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e570e374bf92144bbae0e10fe9b9b840
+      internalID: -776638188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 65
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5680e1b42d3542c583b94f710aabeaf
+      internalID: -1118998776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83551225d8eef435180aaf22ae4fd876
+      internalID: -1911701254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e776758e34546569fc213a3f34994e
+      internalID: 1287101047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 64
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58823056d4a940e8a434296dae0b99a
+      internalID: -1526398380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 64
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6640e3fd809fc4a70a1bc19c03b7b520
+      internalID: 99978182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5f66c078fc4189acd21ac0efee6f9
+      internalID: -1423802724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 65
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734e6e2f2f2164bd580d87b894a9a262
+      internalID: 929605545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_46
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f22d11038e164688b8269aba9fc5b8d
+      internalID: -2031824246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_47
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56463c5aeabc34a77ad7021338908b8e
+      internalID: 1619106071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470ed1dba356415ab83f99843e4478a
+      internalID: 2037264919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d55d98b5d1f4f82a59b621cd3e0e58
+      internalID: 1819529714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71308b86e0b2843c19961d2e26c55238
+      internalID: 245084882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac99edc3f94654c0992fb16ed5a9c4ad
+      internalID: 1713920509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b89d4cb0aac4f5f91a80b426c9f27b
+      internalID: -659815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d33baf253d490595c89427734c22a
+      internalID: 737461821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a1d8019b2b634bc0905b37ff71fc367
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_8: 243458710
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_26: 1382551459
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_17: 104543444
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_50: 245084882
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_45: 929605545
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_23: 1380919664
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_48: 2037264919
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_1: 1902003238
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_21: -929025391
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_18: 41304048
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_31: -297402909
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_22: 529800148
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_37: -721484431
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_53: 737461821
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_51: 1713920509
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_30: 2060498832
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_13: 89401282
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_43: 99978182
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_41: 1287101047
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_9: -254684624
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_16: 87875474
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_32: -700753754
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_33: -552685192
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_7: 2057759361
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_12: 642356069
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_6: 84489199
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_15: -1757997391
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_34: 667602908
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_35: 642718602
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_49: 1819529714
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_29: 146646509
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_19: -1648845422
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_20: 444690331
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_14: -2147183695
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_24: -1735762661
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_25: -1778728973
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_10: -1696961892
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_39: -1118998776
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_42: -1526398380
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_5: -1631025884
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_46: -2031824246
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_0: 585215792
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_2: 2128881686
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_40: -1911701254
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_44: -1423802724
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_11: -785890826
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_3: 816025103
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_36: -277349033
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_52: -659815456
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_27: 2137377429
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_28: 1005984620
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_47: 1619106071
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_38: -776638188
+      the_accurate_firered_overworld_sprite_resource_by_spherical_ice_d9o0smv_4: -1335376938
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
